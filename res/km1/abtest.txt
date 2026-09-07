@@ -5,7 +5,7 @@
 			"abTestRatio": [0,1]
 		}, {
 			"abTestId": "2",
-			"abTestRatio": [1,1,1,1]
+			"abTestRatio": [1,1,1,1,1,1]
 		}, {
 			"abTestId": "3",
 			"abTestRatio": [1,1,1,1]
