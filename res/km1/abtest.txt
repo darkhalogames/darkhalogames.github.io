@@ -10,7 +10,7 @@
 			"abTestId": "3",
 			"abTestRatio": [1,1,1,1]
 		}, {
-			"abTestId": "10008",
+			"abTestId": "10086",
 			"abTestRatio": [1,0,0,0]
 		}
 	]
