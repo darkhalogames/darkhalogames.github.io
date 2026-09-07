@@ -1,0 +1,17 @@
+{
+	"abTestConfig": [
+		{
+			"abTestId": "1",
+			"abTestRatio": [0,1]
+		}, {
+			"abTestId": "2",
+			"abTestRatio": [1,1,1,1]
+		}, {
+			"abTestId": "3",
+			"abTestRatio": [1,1,1,1]
+		}, {
+			"abTestId": "10008",
+			"abTestRatio": [1,0,0,0]
+		}
+	]
+}
