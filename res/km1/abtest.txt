@@ -8,7 +8,7 @@
 			"abTestRatio": [1,1,1,1,1,1]
 		}, {
 			"abTestId": "3",
-			"abTestRatio": [1,1,1,1,1,1]
+			"abTestRatio": [1,1,1,1,1]
 		}, {
 			"abTestId": "4",
 			"abTestRatio": [1,1,1,1]
