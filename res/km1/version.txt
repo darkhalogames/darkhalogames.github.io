@@ -1,4 +1,4 @@
 {
 			"lastVersion": "0.11.0",
-			"forceVersion":"0.10.0"
+			"forceVersion":"0.11.0"
 		}
